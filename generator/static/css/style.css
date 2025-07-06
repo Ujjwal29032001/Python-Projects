@@ -1,0 +1,10 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+input[type="number"] {
+  padding:10px;
+  font-size: 18px;
+}
+.alert{
+    font-size: 18px;
+}
